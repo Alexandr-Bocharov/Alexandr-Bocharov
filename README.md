@@ -1,16 +1,16 @@
 ##  Привет👋 Меня зовут Саша
 
-<!--
-**Alexandr-Bocharov/Alexandr-Bocharov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я backend разработчик. Вот несколько моих проектов:
 
-Here are some ideas to get you started:
+## 🚀 Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🔗 DDS - Движение денежных средств](https://github.com/Alexandr-Bocharov/DDS)  
+  DDS — это веб-приложение для отслеживания записей о движении денежных средств. Система позволяет задавать типы операций, категории, статусы и фиксировать каждую финансовую запись с валидацией.  
+
+- [🔗 Магазин продуктов](https://github.com/Alexandr-Bocharov/grocery_store)  
+  Данный проект представляет собой API для магазина продуктов
+
+## 🛠️ Навыки
+- Frontend: HTML, CSS
+- Backend: Python, Django, DRF
+- Tools: Docker, Git, PostgreSQL, Redis, Celery
